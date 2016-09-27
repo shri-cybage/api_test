@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.demo.api.test.APITest" duration-ms="3027" started-at="2016-09-27T13:27:21Z" finished-at="2016-09-27T13:27:24Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="3027" started-at="2016-09-27T13:27:21Z" finished-at="2016-09-27T13:27:24Z">
+      <class name="com.demo.api.test.APITest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.api.test.APITest@1e643faf]" name="test1" duration-ms="3005" started-at="2016-09-27T18:57:21Z" finished-at="2016-09-27T18:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.demo.api.test.APITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.demo.api.test.APITest -->
+</testng-results>
